@@ -21,7 +21,7 @@
         <reactor.test.version>3.2.11.RELEASE</reactor.test.version>
         <jackson.version>2.12.6.1</jackson.version>
         <netty.version>4.1.42.Final</netty.version>
-        <junit.version>4.12</junit.version>
+        <junit.version>4.13.1</junit.version>
         <logback.version>1.2.9</logback.version>
         <logstash-logback-encoder.version>6.1</logstash-logback-encoder.version>
         <lombok.version>1.18.8</lombok.version>
