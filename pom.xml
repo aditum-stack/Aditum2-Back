@@ -19,7 +19,7 @@
         <spring.boot.version>2.5.12</spring.boot.version>
         <spring.mybatis.version>2.1.0</spring.mybatis.version>
         <reactor.test.version>3.2.11.RELEASE</reactor.test.version>
-        <jackson.version>2.13.4.1</jackson.version>
+        <jackson.version>2.13.4.2</jackson.version>
         <netty.version>4.1.42.Final</netty.version>
         <junit.version>4.13.1</junit.version>
         <logback.version>1.2.9</logback.version>
